@@ -1,5 +1,8 @@
 <h1 align="center">Hola, Soy Víctor Luévano 👋</h1>
-<h3 align="center">Tengo 22 años. Soy ingeniero de software, especializado en el desarrollo web y móvil, enfocado en generar soluciones prácticas. Tengo experiencia llevando proyectos desde el levantamiento de requerimientos hasta la implementación final. Me gusta aportar liderazgo técnico y encontrar la solución más eficiente para asegurar que la tecnología impulse los objetivos de la organización.</h3>
+
+<h3 align="center">
+  Tengo 22 años. Soy ingeniero de software, especializado en el desarrollo web y móvil, enfocado en generar soluciones prácticas. Tengo experiencia llevando proyectos desde el levantamiento de requerimientos hasta la implementación final. Me gusta aportar liderazgo técnico y encontrar la solución más eficiente para asegurar que la tecnología impulse los objetivos de la organización.
+</h3>
 
 <h3>💻 Herramientas y Tecnologías</h3>
 
@@ -20,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vluevano2003&layout=compact&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vluevano2003&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vluevano2003&layout=compact&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vluevano2003&show_icons=true&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="left">
