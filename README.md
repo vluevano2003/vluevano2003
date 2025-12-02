@@ -22,11 +22,9 @@
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vluevano2003&layout=compact&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true&include_all_commits=true" alt="Lenguajes más usados" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vluevano2003&show_icons=true&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
-</p>
+---
 
+<h4>Contacto</h4>
 <p align="left">
   <a href="https://www.linkedin.com/in/vluevano2003" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
