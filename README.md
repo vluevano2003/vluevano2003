@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vluevano2003&layout=compact&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true" alt="Lenguajes más usados" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vluevano2003&show_icons=true&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vluevano2003&layout=compact&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true&include_all_commits=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vluevano2003&show_icons=true&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="left">
