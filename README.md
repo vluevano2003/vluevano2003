@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy Víctor Luévano 👋</h1>
 
 <h3 align="center">
-Tengo 22 años. Soy ingeniero de software, especializado en el desarrollo web, de escritorio y móvil, enfocado en generar soluciones prácticas. Tengo experiencia llevando proyectos desde el levantamiento de requerimientos hasta la implementación final. Me gusta aportar liderazgo técnico y encontrar la solución más eficiente para asegurar que la tecnología impulse los objetivos de la organización.
+Tengo 23 años. Soy ingeniero de software, especializado en el desarrollo web, de escritorio y móvil, enfocado en generar soluciones prácticas. Tengo experiencia llevando proyectos desde el levantamiento de requerimientos hasta la implementación final. Me gusta aportar liderazgo técnico y encontrar la solución más eficiente para asegurar que la tecnología impulse los objetivos de la organización.
 </h3>
 
 <h3>💻 Herramientas y Tecnologías</h3>
