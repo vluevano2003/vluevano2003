@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Víctor Luévano 👋</h1>
 
 <h3 align="center">
-I am 23 years old. I am a software engineer specializing in web, desktop, and mobile development, focused on creating practical solutions. I have experience taking projects from requirements gathering to final implementation. I enjoy providing technical leadership and finding the most efficient solution to ensure technology drives the organization's goals.
+I'm 23 years old. I'm a software engineer specializing in web, desktop, and mobile development, focused on creating practical solutions. I've experience taking projects from requirements gathering to final implementation. I enjoy providing technical leadership and finding the most efficient solution to ensure technology drives the organization's goals.
 </h3>
 
 <h3>💻 Tools and Technologies</h3>
